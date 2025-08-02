@@ -51,7 +51,7 @@ Returns the block data of the block if block is a tile entity.
 local reader = peripheral.find("blockReader")
 
 --Prints the contents of the data
-for k, v in ipairs(reader.getBlockData()) do 
+for k, v in pairs(reader.getBlockData()) do 
     print(k, v)
 end
 ```
