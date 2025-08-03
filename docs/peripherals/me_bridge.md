@@ -33,7 +33,7 @@ You can retrieve items, craft items, get all items as a list and more. The ME Br
 === "1.20.1-0.7 and older"
 
     !!! info
-        If you are playing on 0.7 for the minecraft version 1.21.1 and older, please use the content tab for "1.21.1-0.7 and newer".
+        If you are playing on 0.7 for the minecraft version 1.21.1 and newer, please use the content tab for "1.21.1-0.7 and newer".
         The following documentation contains the legacy ME and RS bridge features which will be replaced with the next stable AP version.
 
         The new ME and RS Bridge systems will eventually be back ported to 1.20.1 and 1.19.2 with 0.8.
