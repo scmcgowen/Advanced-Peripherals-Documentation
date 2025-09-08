@@ -6,6 +6,7 @@ nav:
     - 'Blog':
         - blog/index.md
     - 'Guides':
+      - 'Disabled Peripherals': 'guides/disabled_peripherals.md'
       - 'Lua Objects': 'guides/objects.md'
       - 'Item and Fluid Filters': 'guides/filters.md'
       - 'Cooldowns and Fuel consumption': 'guides/cooldowns_and_fuel_consumption.md'
@@ -142,7 +143,7 @@ plugins:
       enabled: !ENV [CI, false]
   - git-committers:
        repository: IntelligenceModding/Advanced-Peripherals-Documentation
-       branch: "0.7-bridges"
+       branch: "0.7"
        token: !ENV GITHUB_TOKEN
        enabled: !ENV [CI, false]
 
