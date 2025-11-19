@@ -104,6 +104,8 @@ Returns information about the player with the `username` passed.
 
 | table                      | Description                                |
 |----------------------------|--------------------------------------------|
+| uuid: `string`             | The player's UUID                          |
+| name: `string`             | The player's name
 | dimension: `string`        | The dimension the player is in             |
 | eyeHeight: `number`        | The height of the player's eyes            |
 | pitch: `number`            | The pitch of the player's head             |
