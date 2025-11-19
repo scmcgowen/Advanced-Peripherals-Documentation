@@ -102,6 +102,8 @@ Returns information about the player with the `username` passed.
 
 !!! success "Added more properties in version 0.7.4r"
 
+!!! note "The name and uuid fields only exist in MC 1.21.1"
+
 | table                      | Description                                |
 |----------------------------|--------------------------------------------|
 | uuid: `string`             | The player's UUID                          |
